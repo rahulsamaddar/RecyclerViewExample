@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView tv= (TextView) findViewById(R.id.hello);
         tv.setText("Git hub");
+        int x=5;
     }
 }
